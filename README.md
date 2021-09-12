@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**SushilGhorasaini1/SushilGhorasaini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I am Sushil Ghorasaini 👋
 
 - 🔭 I’m currently working on my own startup
 - 🌱 I’m currently learning Postgresql
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @sghorasaini1
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I used to spend upto 16 hours a day while learning flutter
--->
