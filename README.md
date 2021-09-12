@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with supabase
 - 💬 Ask me about flutter
 - 📫 How to reach me: @sghorasaini1
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He / His
 - ⚡ Fun fact: I used to spend upto 16 hours a day while learning flutter
 -->
