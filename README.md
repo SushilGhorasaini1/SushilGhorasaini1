@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushil Ghorasaini</h1>
 <h3 align="center">Lifelong Learner. Focused on Dart and Javascript.</h3>
 
-- 🔭 I’m currently working on **my own startup**
+- 🔭 I’m currently working on **my personal projects**
 - 🌱 I’m currently learning **Postgresql**
 - 👯 I’m looking to collaborate on **github**
 - 🤝 I’m looking for help with **supabase**
