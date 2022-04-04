@@ -2,9 +2,9 @@
 <h3 align="center">Lifelong Learner. Focused on Dart and Javascript.</h3>
 
 - 🔭 I’m currently working on **my personal projects**
-- 🌱 I’m currently learning **Postgresql**
+- 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **github**
-- 🤝 I’m looking for help with **supabase**
+- 🤝 I’m looking for help with **Java**
 - 👨‍💻 All of my projects are available at [https://github.com/SushilGhorasaini1](https://github.com/SushilGhorasaini1)
 - 💬 Ask me about **flutter**
 - 📫 How to reach me **https://twitter.com/sghorasaini1**
